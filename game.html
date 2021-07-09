@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SGame</title>
+    <!--此src 可以在登入玩家後取得 -->
+    <script charset="UTF-8"
+            src="https://dicebigsmall.ck1111.net/public/js/gameclient.js?ver=2105122"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            let token = {
+                "result":0,
+                "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjE3NzQ3LCJiaWQiOiJ0aG90aCIsImFjY291bnQiOiJ0aG90aF9QSEpYMzgzX2Zsb2F0IiwibWVtYmVyaWQiOiIxMTU1NDQxIiwiaWF0IjoxNjI1ODA5MTEyLCJleHAiOjE2MjU4OTU1MTJ9.kG1LLJGfQwi8QzzeeeWEnaY-RHmtyRl-HTXQyBEgN_c",
+                "message":"success",
+                "gameList":[
+                    {
+                        "id":1,
+                        "game_id":"1",
+                        "platform_name":"",
+                        "company_code":"ck1111",
+                        "game_name":"dicebigsmall",
+                        "android_version":"0",
+                        "ios_version":"0",
+                        "lobby_type":"float",
+                        "login_url":"",
+                        "connect_url":"https://gateway.ck1111.net/?sid=dicebigsmall&gid=1",
+                        "active":1,
+                        "order":"0",
+                        "custom_data":
+                            "{ \"host\": \"https://dicebigsmall.ck1111.net/public\"," +
+                            " \"gameClient\": \"https://dicebigsmall.ck1111.net/public/js/gameclient.js?ver=2105122\"," +
+                            " \"businessUrl\": \"https://gateway.ck1111.net/business\" }",
+                        "icon":1,
+                        "desc":"骰寶",
+                        "fastactive":0,
+                        "coming_soon":0,
+                        "maintain":0,
+                        "group_id":"0",
+                        "client_group":"0",
+                        "vertical_group":"0"}
+                ],
+                "gameClientUrl":"https://dicebigsmall.ck1111.net/public/js/gameclient.js?ver=2105122"}
+
+            gameClient.onLoad(token,"zh-tw", "base");
+        });
+    </script>
+</head>
+<body>
+
+</body>
+</html>
