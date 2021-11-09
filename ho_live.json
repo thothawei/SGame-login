@@ -1,0 +1,108 @@
+{
+    "game_type": [
+	{
+            "id": "0",
+            "name": "其他"
+        },
+        {
+            "id": "l8i2hq4jo2hjj9ca",
+            "name": "A1極速百家樂"
+        },
+        {
+            "id": "bacdhq2j04hjj8ca",
+            "name": "A2極速百家樂"
+        },
+        {
+            "id": "nw12hnm4o2hjjnb4",
+            "name": "B1極速百家樂"
+        },
+        {
+            "id": "nw2dhger04hjjnv4",
+            "name": "B2極速百家樂"
+        },
+        {
+            "id": "bac1mq2j04hjj801",
+            "name": "C1極速百家樂"
+        },
+        {
+            "id": "bac2qn4j02hn1m02",
+            "name": "C2極速百家樂"
+        },
+        {
+            "id": "bac3bm3j06hy1m03",
+            "name": "C3極速百家樂"
+        },
+        {
+            "id": "bac4bm3j06hy1m07",
+            "name": "C4百家樂"
+        },
+        {
+            "id": "bac5bm3j06hy1m08",
+            "name": "C5百家樂"
+        },
+        {
+            "id": "dat2hq6jo4hjh8dt",
+            "name": "D1龍虎"
+        },
+        {
+            "id": "bj2m46lf2wguzbya",
+            "name": "J1二十一點"
+        },
+        {
+            "id": "yfjv7uzd11rq4ecy",
+            "name": "J2二十一點"
+        },
+        {
+            "id": "nwbj1wspdl0ubyt5",
+            "name": "K1二十一點"
+        },
+        {
+            "id": "bac9mq2j04hjj809",
+            "name": "L3百家樂"
+        },
+        {
+            "id": "bac10n4j02hn1m09",
+            "name": "L4百家樂"
+        },
+        {
+            "id": "x9i3jxq3kiyxx670",
+            "name": "R1輪盤"
+        },
+        {
+            "id": "rout1gbwvsnhj2ma",
+            "name": "S1輪盤"
+        },
+        {
+            "id": "cfnfubozrmdpyj3h",
+            "name": "CA1極速百家樂"
+        },
+        {
+            "id": "bc4drq1k02hnj8cd",
+            "name": "CA2極速百家樂"
+        },
+        {
+            "id": "bc7ire5oi4uhetfd",
+            "name": "CA3極速百家樂"
+        },
+        {
+            "id": "nw3fasdzrmdpyfg4",
+            "name": "CA4百家樂"
+        },
+        {
+            "id": "nwrou1ut6ewswyug",
+            "name": "CA1輪盤"
+        },
+        {
+            "id": "nw4dr2df02hnj43f",
+            "name": "CA5極速百家樂"
+        },
+        {
+            "id": "nw5drt1gfdbsjmb0",
+            "name": "CA6極速百家樂"
+        },
+        {
+            "id": "wnp11c348ew618ci",
+            "name": "CA1骰寶"
+        }
+    ]
+}
