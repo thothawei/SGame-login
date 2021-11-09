@@ -1,5 +1,9 @@
 {
     "game_type": [
+    	{
+            "id": 0,
+            "name": "其他"
+        },
         {
             "id": 1,
             "code": "SIXTEEN_MAHJONG",
