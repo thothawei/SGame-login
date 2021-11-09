@@ -6,11 +6,6 @@
             "name": "麻將"
         },
 	{
-	    "id": 2,
-            "code": "FOUR_OF_A_KIND",
-            "name": "四隻刀"
-	},
-	{
 	    "id": 3,
             "code": "NUINUI",
             "name": "妞妞"
